@@ -1,2 +1,2 @@
-# wai-roles-responsbilities
+# wai-roles-responsibilities
 Web Accessibility Roles &amp; Responsibilities
